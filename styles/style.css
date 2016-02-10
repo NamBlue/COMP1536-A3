@@ -1,0 +1,27 @@
+html {
+	font-family: "Arial";
+	color: #ff9933;
+}
+h1 {
+	text-align: center;
+}
+body	{
+	background: url('../images/background.png') no-repeat fixed;
+	background-size: cover;
+	background-position: center;
+}
+canvas {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border-style: outset;
+	border-width: 5px;
+	border-color: #ffaa00;
+}
+.readme {
+	position: fixed;
+	bottom: 5px;
+}
+
+
